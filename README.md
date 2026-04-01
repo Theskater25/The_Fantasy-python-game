@@ -6,7 +6,7 @@ Plonge dans une aventure épique inspirée de Donjons & Dragons !
 Incarne un héros, explore des donjons, affronte des ennemis et des boss, et fais évoluer ton personnage grâce à l’expérience.
 
 Classes et compétences :
-Choisis ta classe parmi 5 héros uniques :
+Choisis ta classe parmi 10 héros uniques :
 Sorcier → Gel l’ennemi pendant 1 tour
 Archer → Flèche explosive : prochaine attaque +50% dégâts
 Chevalier → Bouclier divin : réduit 70% des dégâts pendant 2 tours
@@ -41,3 +41,6 @@ Competence → détails des compétences
 Joueur → informations du joueur et progression
 Ennemi → caractéristiques des ennemis et boss
 La base de données est automatiquement créée à l’installation et mise à jour au fil du jeu.
+
+Prochaine mise à jour : 
+Je prevois de faire 2 autres dlc avec des nouvelles histoires uniques et de nouveaux personnages.
